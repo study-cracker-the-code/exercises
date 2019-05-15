@@ -1,2 +1,2 @@
 # exercises
-Exercises from Cracker the Code
+The idea is solve the exercises from Cracker the Code Book
